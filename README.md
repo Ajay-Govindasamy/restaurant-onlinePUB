@@ -5,14 +5,10 @@ The project structure contains two folders, one for front-end and the other for 
 1)AJAY GOVINDASAMY,20251024
 2)AISHWARYA ARUN SUKALE,20251514
 3)HRITIK GUPTA,20251132
- 
-Please find the repo link of the code folder pushed in Bit Bucket.
- 
-Link: 
- 
+
 We have hosted the project in Git HUB pages and below is the application demo for you reference.
  
-Link: 
+Link: https://ajay-govindasamy.github.io/restaurant-onlinePUB/
  
 The code folders are:
  
